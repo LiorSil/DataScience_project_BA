@@ -1,2 +1,2 @@
-# DataScience_proj_BA
+# DataScience_project_BA
 Final course Project by Daniel Shkliar & Lior Silman
